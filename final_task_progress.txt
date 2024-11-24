@@ -4,8 +4,14 @@ UI/UX
 
 I have started designing my product webpage design, but major part is yet to begin, till now I had only figured out on the outline of design and currently thinking about what can be done next. 
 
-Link of figma design: https://www.figma.com/design/I6AHeuKPnWJeeiOhbe3t9E/final-task?node-id=0-1&t=ghmhcIj9sHkz3wmH-1
-Link of Drive (video Projects added): https://drive.google.com/drive/folders/1x517PhaozWrzSxGQzI7jge7ym-JV1l6D?usp=drive_link
+Link of figma design: 
+https://www.figma.com/design/I6AHeuKPnWJeeiOhbe3t9E/final-task?node-id=0-1&t=ghmhcIj9sHkz3wmH-1
+
+Link of figma prototype: 
+https://www.figma.com/proto/I6AHeuKPnWJeeiOhbe3t9E/final-task?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=436%2C1238%2C0.5&t=cVOJag2ZQXsgCG5y-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
+
+Link of Drive (video Projects added): 
+https://drive.google.com/drive/folders/1x517PhaozWrzSxGQzI7jge7ym-JV1l6D?usp=drive_link
 
 This is a design of a webpage  showcasing mercedes AMG car, store etc...
 I had tried to host the design using a free figma plugin, which doesn't produces good results, but instead check my figma design.
