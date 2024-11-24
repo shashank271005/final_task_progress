@@ -7,3 +7,5 @@ I have started designing my product webpage design, but major part is yet to beg
 Link of figma design: https://www.figma.com/design/I6AHeuKPnWJeeiOhbe3t9E/final-task?node-id=0-1&t=ghmhcIj9sHkz3wmH-1
 Link of Drive (video Projects added): https://drive.google.com/drive/folders/1x517PhaozWrzSxGQzI7jge7ym-JV1l6D?usp=drive_link
 
+This is a design of a webpage  showcasing mercedes AMG car, store etc...
+I had tried to host the design using a free figma plugin, which doesn't produces good results, but instead check my figma design.
